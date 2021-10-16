@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
-import About from "../views/about.vue";
+import About from "../views/About.vue";
 import World from "../views/world.vue";
 import Prevent from "../views/prevent.vue";
 import Vaccine from "../views/vaccine.vue";
